@@ -4,7 +4,7 @@
  <a href="https://github.com/CodreaCodrin/MircCopy.git"> 
  MircCopy </a> : User base interface connected with database where u can message friends  <br></br>
   <a href="https://github.com/CodreaCodrin/SpleenAt">
- Spleen </a> : 2d pixel art slasher game <a href="hhttps://github.com/redusca/SpleenBuild"> SpleenBuild </a>
+ Spleen </a> : 2d pixel art slasher game <a href="https://github.com/redusca/SpleenBuild"> SpleenBuild </a>
 
  ## :symbols: Languages & Tools Usage 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodreaCodrin&layout=compact&theme=radical)
