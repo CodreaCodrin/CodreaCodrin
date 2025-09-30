@@ -1,4 +1,6 @@
 ## 📌 My Projects :
+ <a href="https://github.com/LauraDiosan-CS/ai-projects-helpdesk">
+ BT Employee Assistant </a> : ChatBox <br></br>
  <a href="https://github.com/CodreaCodrin/UniveristyContractManage.git">
  UniversityStudyContractManagement </a> : A helper app for university study planning  <br></br>
  <a href="https://github.com/CodreaCodrin/MircCopy.git"> 
