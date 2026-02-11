@@ -17,7 +17,7 @@
  Rom Store </a> : Mobile app for rom bottle storage <kbd>React Ionic</kbd><kbd>TypeScript</kbd><kbd>Android Studio</kbd><kbd>Kotlin</kbd><kbd>C#</kbd><kbd>REST API</kbd><kbd>MS SQL</kbd> <br></br>
   <a href="https://github.com/CodreaCodrin/MircCopy.git"> 
  MircCopy </a> : User base interface connected with database where u can message friends <kbd>Java</kbd><kbd>JavaFX</kbd><kbd>PostgreSQL</kbd> <br></br>
- Cargo management <kbd>JSON-RPC</kbd><kbd>TCP</kbd><kbd>Java</kbd><kbd>JavaFX</kbd><kbd>C#</kbd><kbd>WinForms</kbd> <br></br>
+ Cargo management <kbd>JSON-RPC</kbd><kbd>TCP</kbd><kbd>Java</kbd><kbd>JavaFX</kbd><kbd>C#</kbd><kbd>WinForms</kbd><kbd>SQLite</kbd> <br></br>
   <a href="https://github.com/CodreaCodrin/PPD/tree/master/ClientServer"> App </a> :
  Multi-Node Compute Resource Scheduler Simulator <kbd>TCP</kbd><kbd>C++</kbd> <br></br>
  
