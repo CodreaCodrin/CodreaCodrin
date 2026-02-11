@@ -20,6 +20,7 @@
  Cargo management <kbd>JSON-RPC</kbd><kbd>TCP</kbd><kbd>Java</kbd><kbd>JavaFX</kbd><kbd>C#</kbd><kbd>WinForms</kbd><kbd>SQLite</kbd> <br></br>
   <a href="https://github.com/CodreaCodrin/PPD/tree/master/ClientServer"> App </a> :
  Multi-Node Compute Resource Scheduler Simulator <kbd>TCP</kbd><kbd>C++</kbd> <br></br>
+ Mini Translator for mini C++ language <kbd>Bison</kbd><kbd>Flex</kbd><kbd>C++</kbd><kbd>Assembly</kbd><kbd>EBNF</kbd> <br></br>
  
 
  ## :symbols: Languages & Tools Usage 
