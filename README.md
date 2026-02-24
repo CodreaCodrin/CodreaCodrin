@@ -1,11 +1,11 @@
 ## 📌 My Projects :
   <a href="https://github.com/CodreaCodrin/SpleenAt">
  Spleen </a> : 2d pixel art slasher game <kbd>Unity</kbd><kbd>C#</kbd><kbd>Aseprite</kbd> <a href="https://github.com/redusca/SpleenBuild"> SpleenBuild </a> <br></br>
-  <a href="https://github.com/LauraDiosan-CS/ai-projects-helpdesk">
+  <a href="https://github.com/CodreaCodrin/BTChatBotAssistant/tree/main">
  BT Employee Assistant </a> : ChatBox <kbd>React Vite</kbd><kbd>TypeScript</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>Python</kbd><kbd>FastAPI</kbd><kbd>RAG</kbd> <br></br>
   <a href="https://github.com/Skybby15/ProiectColectivFrontEnd"> Fronend </a> , <a href="https://github.com/Cinix03/ProiectColectivBackEnd"> Backend </a>
  <b>StudyFlow</b> : An all-in-one collaboration platform for seamless team communication, video conferencing, and file sharing for studends to learn together <kbd>React Vite</kbd><kbd>shadcn/ui</kbd><kbd>TypeScript</kbd><kbd>Zustand</kbd><kbd>TanStack</kbd><kbd>Zod</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>WebSockets</kbd><kbd>WebRTC</kbd><kbd>Go</kbd><kbd>Firebase</kbd><kbd>OpenAPI Generator</kbd> <br></br>
-  <a href="https://github.com/LauraDiosan-CS/projects-helpdesk-bt">
+  <a href="https://github.com/CodreaCodrin/StudentHelpdesk">
  RAG Powered Chatbot </a> : An AI-powered educational platform where professors upload course materials and students enroll to interact with a RAG-based chatbot that explains complex concepts, generates flashcards, and creates custom quizzes. <kbd>React Vite</kbd><kbd>TypeScript</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>Python</kbd><kbd>FastAPI</kbd><kbd>RAG</kbd> <br></br>
   <a href="https://github.com/CodreaCodrin/LicentaTCN">
  Mangold </a> : A collaborative wellbeing app that streamlines psychological assessments through AI-powered diagnostics and real-time patient progress monitoring. <kbd>React Vite</kbd><kbd>TypeScript</kbd><kbd>shadcn</kbd><kbd>Bun</kbd><kbd>Zustand</kbd><kbd>TanStack</kbd><kbd>zod</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>PostgreSQL</kbd><kbd>Docker</kbd><kbd>Python</kbd><kbd>FastAPI</kbd><kbd>RoBERT Ai</kbd> <br></br>
