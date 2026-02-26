@@ -9,6 +9,8 @@
  RAG Powered Chatbot </a> : An AI-powered educational platform where professors upload course materials and students enroll to interact with a RAG-based chatbot that explains complex concepts, generates flashcards, and creates custom quizzes. <kbd>React Vite</kbd><kbd>TypeScript</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>Python</kbd><kbd>FastAPI</kbd><kbd>RAG</kbd> <br></br>
   <a href="https://github.com/CodreaCodrin/LicentaTCN">
  Mangold </a> : A collaborative wellbeing app that streamlines psychological assessments through AI-powered diagnostics and real-time patient progress monitoring. <kbd>React Vite</kbd><kbd>TypeScript</kbd><kbd>shadcn</kbd><kbd>Bun</kbd><kbd>Zustand</kbd><kbd>TanStack</kbd><kbd>zod</kbd><kbd>Axios</kbd><kbd>REST API</kbd><kbd>PostgreSQL</kbd><kbd>Docker</kbd><kbd>Python</kbd><kbd>FastAPI</kbd><kbd>RoBERT Ai</kbd> <br></br>
+ <a href="https://github.com/CodreaCodrin/PriceTracker"> 
+ PriceTracker </a> : An automatic price tracking tool for eMAG, Amazon, Altex. It uses Playwright with stealth features to bypass anti-bot protections and monitors price changes, drops based on your target thresholds and all time lows and highs. <kbd>Python</kbd> <kbd>SQLite</kbd> <kbd>playwright</kbd> <kbd>Web Scraper</kbd> <kbd>SMTP</kbd>  <br></br>
  
 ### Learning Projects :
   <a href="https://github.com/CodreaCodrin/UniveristyContractManage.git">
