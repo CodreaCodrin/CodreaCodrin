@@ -25,8 +25,7 @@
  Mini Translator for mini C++ language <kbd>Bison</kbd><kbd>Flex</kbd><kbd>C++</kbd><kbd>Assembly</kbd><kbd>EBNF</kbd> <br></br>
  
 
- ## :symbols: Languages & Tools Usage 
-![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=CodreaCodrin&layout=compact&theme=radical)
+ ## <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/608c4365-7c44-4261-a15d-2f08e0890571" /> Tools:
 
 <table>
     <td align="center" width="96">
